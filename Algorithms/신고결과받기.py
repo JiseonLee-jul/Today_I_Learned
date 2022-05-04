@@ -1,4 +1,4 @@
-### my code
+##### my code
 def solution(id_list, report, k):
     answer = []
     report_dict = {}
@@ -33,7 +33,7 @@ def solution(id_list, report, k):
     
     return answer
 
-###
+#####
 def solution(id_list, report, k):
     answer = [0] * len(id_list)    
     reports = {x : 0 for x in id_list}
